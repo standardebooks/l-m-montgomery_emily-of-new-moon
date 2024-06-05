@@ -47,10 +47,10 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Children's</meta>
-	<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Budding poetess and orphan Emily Byrd Starr goes to live with her previously estranged aunts, we go with Emily as she learns how to grow up and keep her imagination.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-		<p><i epub:type="se:name.publication.book">Emily of New Moon,</i> similar to <i epub:type="se:name.publication.book">Anne of Green Gables,</i> follows the life of Emily Byrd Starr, an orphan raised by her relatives after her father’s death. Emily, with her unique features, lives on a farm on Prince Edward Island, called New Moon. There, she befriends Ilse, Teddy, and Perry, each possessing special talents. Emily faces challenges with her family, friends, and schoolwork including Aunt Elizabeth’s disapproval of her writing, and her schoolteacher’s stubborn injustice. Journey with Emily as she learns what it means to grow up, while retaining her sense of imagination, creativity, and wonder at the world.</p>
+			&lt;p&gt;&lt;i&gt;Emily of New Moon,&lt;/i&gt; similar to &lt;i&gt;Anne of Green Gables,&lt;/i&gt; follows the life of Emily Byrd Starr, an orphan raised by her relatives after her father’s death. Emily, with her unique features, lives on a farm on Prince Edward Island, called New Moon. There, she befriends Ilse, Teddy, and Perry, each possessing special talents. Emily faces challenges with her family, friends, and schoolwork including Aunt Elizabeth’s disapproval of her writing, and her schoolteacher’s stubborn injustice. Journey with Emily as she learns what it means to grow up, while retaining her sense of imagination, creativity, and wonder at the world.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61236</dc:source>
@@ -67,7 +67,7 @@
 		<dc:contributor id="artist">Auguste Renoir</dc:contributor>
 		<meta property="file-as" refines="#artist">Renoire, Auguste</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir</meta>
-	<meta property="se:url.authority.nacoaf" refines="artist">https://id.loc.gov/authorities/names/n79055478.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="artist">http://id.loc.gov/authorities/names/n79055478</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jim Adcock</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Adcock, Jim</meta>
