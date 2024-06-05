@@ -46,7 +46,7 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
-		<meta property="se:subject">Children's</meta>
+		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Budding poetess and orphan Emily Byrd Starr goes to live with her previously estranged aunts, we go with Emily as she learns how to grow up and keep her imagination.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
