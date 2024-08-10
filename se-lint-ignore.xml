@@ -18,10 +18,4 @@
 			<reason>Quote marks are written intentionally to show proper use of the mark.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-17.xhtml">
-		<ignore>
-			<code>y-023</code>
-			<reason>Quote marks are written intentionally to show proper use of the mark.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
