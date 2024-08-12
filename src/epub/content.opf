@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lucy-maud-montgomery/emily-of-new-moon</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-08-12T20:28:17Z</dc:date>
+		<meta property="dcterms:modified">2024-08-12T20:28:17Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -48,15 +48,15 @@
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A budding poetess and orphan goes to live with her previously estranged aunts.</dc:description>
+		<dc:description id="description">A budding poetess and orphan goes to live with her estranged aunts.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Emily of New Moon,&lt;/i&gt; similar to &lt;i&gt;Anne of Green Gables,&lt;/i&gt; follows the life of Emily Byrd Starr, an orphan raised by her relatives after her father’s death. Emily, with her unique features, lives on a farm on Prince Edward Island, called New Moon. There, she befriends Ilse, Teddy, and Perry, each possessing special talents. Emily faces challenges with her family, friends, and schoolwork including Aunt Elizabeth’s disapproval of her writing, and her schoolteacher’s stubborn injustice. Journey with Emily as she learns what it means to grow up, while retaining her sense of imagination, creativity, and wonder at the world.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Emily of New Moon,&lt;/i&gt; like &lt;a href="https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables"&gt;&lt;i&gt;Anne of Green Gables&lt;/i&gt;&lt;/a&gt;, follows the life of an orphan, Emily Byrd Starr, who was raised by her relatives after her father’s death. Emily, with her vivid imagination, lives on a farm on Prince Edward Island called New Moon. There, she befriends the children Ilse, Teddy, and Perry, each possessing special talents. Emily faces challenges with her family, friends, and schoolwork, including Aunt Elizabeth’s disapproval of her writing and her schoolteacher’s stubborn injustice. All the while she learns what it means to grow up, while retaining her sense of imagination, creativity, and wonder at the world.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61236</dc:source>
 		<dc:source>https://archive.org/details/emilyofnewmoon00mont_2</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">117416</meta>
+		<meta property="se:reading-ease.flesch">73.58</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Emily_of_New_Moon</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lucy-maud-montgomery_emily-of-new-moon</meta>
 		<dc:creator id="author">Lucy Maud Montgomery</dc:creator>
@@ -83,6 +83,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
