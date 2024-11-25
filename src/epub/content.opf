@@ -48,6 +48,9 @@
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Emily</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A budding poetess and orphan goes to live with her estranged aunts.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Emily of New Moon,&lt;/i&gt; like &lt;a href="https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables"&gt;&lt;i&gt;Anne of Green Gables&lt;/i&gt;&lt;/a&gt;, follows the life of an orphan, Emily Byrd Starr, who was raised by her relatives after her father’s death. Emily, with her vivid imagination, lives on a farm on Prince Edward Island called New Moon. There, she befriends the children Ilse, Teddy, and Perry, each possessing special talents. Emily faces challenges with her family, friends, and schoolwork, including Aunt Elizabeth’s disapproval of her writing and her schoolteacher’s stubborn injustice. All the while she learns what it means to grow up, while retaining her sense of imagination, creativity, and wonder at the world.&lt;/p&gt;
