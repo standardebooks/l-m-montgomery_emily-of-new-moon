@@ -58,7 +58,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61236</dc:source>
 		<dc:source>https://archive.org/details/emilyofnewmoon00mont_2</dc:source>
-		<meta property="se:word-count">117417</meta>
+		<meta property="se:word-count">117419</meta>
 		<meta property="se:reading-ease.flesch">73.58</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Emily_of_New_Moon</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/l-m-montgomery_emily-of-new-moon</meta>
