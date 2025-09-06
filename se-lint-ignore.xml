@@ -5,14 +5,10 @@
 			<code>t-037</code>
 			<reason>Character is showing the importance of quotation marks in a written letter.</reason>
 		</ignore>
-	</file>
-	<file path="chapter-17.xhtml">
 		<ignore>
 			<code>t-041</code>
 			<reason>The punctuation symbol in question is written intentionally in the letter to show proper use of the symbol.</reason>
 		</ignore>
-	</file>
-	<file path="chapter-17.xhtml">
 		<ignore>
 			<code>y-017</code>
 			<reason>Quote marks are written intentionally to show proper use of the mark.</reason>
