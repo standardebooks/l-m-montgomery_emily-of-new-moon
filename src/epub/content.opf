@@ -77,9 +77,9 @@
 		<dc:contributor id="transcriber-1">Jim Adcock</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Adcock, Jim</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Sue Clark</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Clark, Sue</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Benjamin Winstead</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Winstead, Benjamin</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
