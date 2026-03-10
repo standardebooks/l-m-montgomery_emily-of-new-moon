@@ -2,12 +2,15 @@
 <se-lint-ignore>
 	<file path="chapter-17.xhtml">
 		<ignore code="t-037">
+			<line>80</line>
 			<reason>Character is showing the importance of quotation marks in a written letter.</reason>
 		</ignore>
 		<ignore code="t-041">
+			<line>80</line>
 			<reason>The punctuation symbol in question is written intentionally in the letter to show proper use of the symbol.</reason>
 		</ignore>
 		<ignore code="y-017">
+			<line>80</line>
 			<reason>Quote marks are written intentionally to show proper use of the mark.</reason>
 		</ignore>
 	</file>
