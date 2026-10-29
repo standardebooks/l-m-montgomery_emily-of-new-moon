@@ -73,9 +73,10 @@
 		<link href="https://id.loc.gov/authorities/names/n81018346.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Auguste Renoir</dc:contributor>
-		<meta property="file-as" refines="#artist">Renoire, Auguste</meta>
+		<meta property="file-as" refines="#artist">Renoir, Auguste</meta>
+		<meta property="schema:alternateName" refines="#artist">Pierre-Auguste Renoir</meta>
 		<link href="https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir" refines="#artist" rel="schema:sameAs"/>
-		<link href="https://id.loc.gov/authorities/names/n79055478.html" refines="artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n79055478.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jim Adcock</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Adcock, Jim</meta>
